@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  TestTiki
+
+  Created by Huy Trần on 8/7/24.
+  
+*/
+
+// MARK: - HotSearch Screen
+"Search_HotSearch" = "Từ khoá hot";
+
+// MARK: - Common
+"ParseError" = "Lỗi xử lý dũ liệu";
+"NetworkError" = "Lỗi mạng";
+"TokenInvalid" = "Token không họp lệ";
+"AlertErrorTitle" = "Có lỗi";
+"AlertActionDone" = "Xong";
+"Reload" = "Tải lại";
